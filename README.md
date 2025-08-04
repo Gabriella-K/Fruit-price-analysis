@@ -7,12 +7,12 @@ A Power BI dashboard project analyzing fruit types, prices and forms
 This project analyzes different fruit types, their forms, pricing, and yield using Power BI.
 
 ## Project Structure
-- `dataset/`: Cleaned dataset used for analysis
-- `dashboard/`: Power BI dashboard file
-- `presentation/`: Final presentation slides
-- `code/`: Python or Power Query scripts (if used)
+- dataset: Cleaned dataset used for analysis
+- dashboard: Power BI dashboard file
+- presentation: Final presentation slides
+- code: Python or Power Query scripts (if used)
 
-## 📊 Methodology
+## Methodology
 - Data cleaning (removed duplicates, filtered -9999 values)
 - Visual analysis in Power BI (cluster-based, form-based)
 - Interactive tooltips and slicers added for exploration
@@ -32,5 +32,6 @@ This project analyzes different fruit types, their forms, pricing, and yield usi
 
 
 ![image Alt](https://github.com/Gabriella-K/Fruit-price-analysis/blob/85f236a4d20b8bc0e4ab2f003bda02ce85ede1a6/Screenshot%20(347).png)
+![image Alt](https://github.com/Gabriella-K/Fruit-price-analysis/blob/8348597cfcc170f14dd57f602fe230ab2baa1259/Screenshot%20(364).png)
 
 
