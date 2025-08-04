@@ -31,3 +31,6 @@ This project analyzes different fruit types, their forms, pricing, and yield usi
 - Integrate real-time fruit market API
 
 
+![image Alt](https://github.com/Gabriella-K/Fruit-price-analysis/blob/85f236a4d20b8bc0e4ab2f003bda02ce85ede1a6/Screenshot%20(347).png)
+
+
